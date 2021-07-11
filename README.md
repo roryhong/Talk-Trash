@@ -18,11 +18,15 @@
     
 至專案中
 
-    cd Talk-Trash
+    cd Talk-Trash-main
     
 安裝套件
 
     npm install
+    
+啟動專案
+
+    npm run dev
     
 看見以下提示即可開啟 http://localhost:3000 開始使用
 
