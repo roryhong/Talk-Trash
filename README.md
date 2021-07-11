@@ -14,4 +14,16 @@
 ## 安裝
 將專案clone至本地電腦
 
+    https://github.com/roryhong/Talk-Trash.git
     
+至專案中
+
+    cd Talk-Trash
+    
+安裝套件
+
+    npm install
+    
+看見以下提示即可開啟 http://localhost:3000 開始使用
+
+    app is running on http://localhost:3000
