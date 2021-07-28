@@ -19,7 +19,7 @@
     
 至專案中
 
-    cd Talk-Trash-main
+    cd Talk-Trash
     
 安裝套件
 
